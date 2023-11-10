@@ -1,0 +1,15 @@
+2023-10-06 * "Some service" "Sale - Shopping"
+  Liabilities:US:Chase:FreedomUnlimited   -20.00 USD
+  Expenses:Services:Subscription        20.00 USD
+
+2023-10-10 * "FOREIGN TRANSACTION FEE" "Fee - Fees & Adjustments"
+  Liabilities:US:Chase:FreedomUnlimited    -0.06 USD
+  Expenses:Financial:Fees                0.06 USD
+
+2023-10-16 * "TRADER JOE'S" "Sale - Groceries"
+  Liabilities:US:Chase:FreedomUnlimited  -136.58 USD
+  Expenses:Food:Groceries              136.58 USD
+
+2023-10-16 * "Pizzeria" "Sale - Food & Drink"
+  Liabilities:US:Chase:FreedomUnlimited   -18.20 USD
+  Expenses:Food:Restaurants             18.20 USD

@@ -1,0 +1,11 @@
+2019-01-01 commodity USD
+  price: "EUR:yahoo/USDEUR=X"
+
+2020-08-01 commodity BTC
+  price: "EUR:coinbase/BTC-EUR USD:coinbase/BTC-USD"
+
+2020-08-01 commodity ETH
+  price: "EUR:coinbase/ETH-EUR USD:coinbase/ETH-USD"
+
+2019-01-01 commodity VTI
+  price: "USD:yahoo/VTI"

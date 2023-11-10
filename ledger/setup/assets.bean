@@ -1,0 +1,25 @@
+; CHASE BANK
+
+2020-07-08 open Assets:US:Chase:Checking         USD
+2020-07-08 pad Assets:US:Chase:Checking Equity:Opening-Balances
+2020-07-20 balance Assets:US:Chase:Checking  10000.00 USD
+
+; CASH
+
+2020-01-01 open Assets:Cash
+2020-01-01 pad Assets:Cash Equity:Opening-Balances
+2020-07-17 balance Assets:Cash                 100.00 EUR
+
+; 401K
+
+2020-07-08 open Assets:US:Vanguard:401K       USD, VTI
+
+; CRYPTO
+
+2020-08-01 open Assets:HardWallet:Ledger      BTC, ETH
+
+; RECEIVABLES
+
+2000-01-01 open Assets:Receivables
+2000-01-01 open Assets:Receivables:John
+2000-01-01 open Assets:Receivables:SecurityDeposit

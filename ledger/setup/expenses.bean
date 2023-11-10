@@ -1,0 +1,82 @@
+1998-01-29 open Expenses:Home
+1998-01-29 open Expenses:Home:Rent
+1998-01-29 open Expenses:Home:Electricity
+1998-01-29 open Expenses:Home:Furnitures
+1998-01-29 open Expenses:Home:Internet
+1998-01-29 open Expenses:Home:Phone
+1998-01-29 open Expenses:Home:Moving
+
+
+1998-01-29 open Expenses:Transportation
+1998-01-29 open Expenses:Transportation:Train
+1998-01-29 open Expenses:Transportation:Flight
+1998-01-29 open Expenses:Transportation:Taxi
+1998-01-29 open Expenses:Transportation:Car:Parking
+1998-01-29 open Expenses:Transportation:Car:Rental
+1998-01-29 open Expenses:Transportation:Car:Gas
+1998-01-29 open Expenses:Transportation:Car:Toll
+1998-01-29 open Expenses:Transportation:Car:Maintenance
+1998-01-29 open Expenses:Transportation:Car:Insurance
+
+
+1998-01-29 open Expenses:Food
+1998-01-29 open Expenses:Food:Groceries
+1998-01-29 open Expenses:Food:Restaurants
+1998-01-29 open Expenses:Food:CoffeeBar
+
+
+1998-01-29 open Expenses:Health
+1998-01-29 open Expenses:Health:Visits
+1998-01-29 open Expenses:Health:Insurance:Medical
+1998-01-29 open Expenses:Health:Insurance:Dental
+1998-01-29 open Expenses:Health:Insurance:Vision
+
+
+1998-01-29 open Expenses:Taxes
+2022-01-01 open Expenses:Taxes:2022:US:Federal
+2022-01-01 open Expenses:Taxes:2022:US:Medicare
+2022-01-01 open Expenses:Taxes:2022:US:IL
+2022-01-01 open Expenses:Taxes:2022:US:CA
+2022-01-01 open Expenses:Taxes:2022:US:Disability
+2022-01-01 open Expenses:Taxes:2022:US:SocSec
+2022-01-01 open Expenses:Taxes:2023:US:Federal
+2022-01-01 open Expenses:Taxes:2023:US:Medicare
+2022-01-01 open Expenses:Taxes:2023:US:CA
+2022-01-01 open Expenses:Taxes:2023:US:Disability
+2022-01-01 open Expenses:Taxes:2023:US:SocSec
+
+1998-01-29 open Expenses:Financial
+1998-01-29 open Expenses:Financial:Fees
+1998-01-29 open Expenses:Financial:Commissions
+1998-01-29 open Expenses:Financial:Miscellaneous
+
+
+1998-01-29 open Expenses:Giving
+1998-01-29 open Expenses:Giving:Charities
+1998-01-29 open Expenses:Giving:Gifts
+
+
+1998-01-29 open Expenses:Services
+1998-01-29 open Expenses:Services:Subscription
+1998-01-29 open Expenses:Services:Phone
+1998-01-29 open Expenses:Services:Administration
+1998-01-29 open Expenses:Services:Miscellaneous
+
+
+1998-01-29 open Expenses:Personal
+1998-01-29 open Expenses:Personal:Tech
+1998-01-29 open Expenses:Personal:Studies
+1998-01-29 open Expenses:Personal:Care
+1998-01-29 open Expenses:Personal:SelfGrowth
+1998-01-29 open Expenses:Personal:Projects
+1998-01-29 open Expenses:Personal:Clothes
+1998-01-29 open Expenses:Personal:Watches
+
+
+1998-01-29 open Expenses:Recreation
+1998-01-29 open Expenses:Recreation:VideoGames
+1998-01-29 open Expenses:Recreation:Activities
+1998-01-29 open Expenses:Recreation:Lodging
+
+
+1998-01-29 open Expenses:Miscellaneous

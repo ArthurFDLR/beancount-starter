@@ -1,0 +1,22 @@
+2023-10-02 * "Payment to Chase card" "LOAN_PMT"
+  Assets:US:Chase:Checking               -1160.12 USD
+  Liabilities:US:Chase:FreedomUnlimited   1160.12 USD
+
+2023-10-03 * "Rent" "MISC_DEBIT"
+  Assets:US:Chase:Checking               -2690.99 USD
+  Expenses:Home:Rent                      2690.99 USD
+
+2023-10-06 * "Paycheck" "ACH_CREDIT"
+  Income:Work:Paycheck                   -2590.22 USD
+  Income:Work:401Kmatch                    -77.32 USD
+  Assets:US:Chase:Checking                1548.62 USD
+  Assets:US:Vanguard:401K                  231.98 USD
+  Expenses:Taxes:2023:US:Federal           445.45 USD
+  Expenses:Taxes:2023:US:CA                165.06 USD
+  Expenses:Taxes:2023:US:Disability         22.84 USD
+  Expenses:Taxes:2023:US:SocSec            157.44 USD
+  Expenses:Taxes:2023:US:Medicare           36.82 USD
+  Expenses:Health:Insurance:Vision           2.58 USD
+  Expenses:Health:Insurance:Dental           2.60 USD
+  Expenses:Health:Insurance:Medical         54.15 USD
+
