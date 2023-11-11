@@ -62,7 +62,7 @@ def determine_start_date(prices_path):
             x = re.search(date_template, line)
             if x:
                 try:
-                    return datetime.datetime.strptime(x.group(1), "%Y-%m-%d").date()
+                    return datetime.datetime.strptime(x.group(1), "%Y-%m-%d").date() + datetime.timedelta(days=1)
                 except ValueError:
                     continue
     return None
