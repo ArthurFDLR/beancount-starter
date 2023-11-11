@@ -4,7 +4,7 @@ option "operating_currency" "USD"
 option "booking_method" "FIFO"
 option "documents" "./documents"
 
-; 2000-01-01 custom "fava-option" "import-config" "my_finances.importers.py"
+; 2000-01-01 custom "fava-option" "import-config" "ledger-importers.py"
 ; 2000-01-01 custom "fava-option" "import-dirs" "ingestion_buffer"
 
 2000-01-01 custom "fava-option" "show-accounts-with-zero-balance" "False"
