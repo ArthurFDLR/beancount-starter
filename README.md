@@ -4,6 +4,7 @@
 This is a template to start your Beancount ledger. It includes a basic folder structure and some example files.
 
 - [Getting started](#getting-started)
+- [Import transactions from statements](#import-transactions-from-statements)
 - [Ledger structure](#ledger-structure)
   - [`ledger/banking`](#ledgerbanking)
   - [`ledger/setup`](#ledgersetup)
@@ -34,6 +35,11 @@ docker run --rm -v $PWD:/ledger -e BEANCOUNT_FILE=/ledger/ledger-config.bean -p 
 
 4. Open your browser at [http://localhost:5000](http://localhost:5000)
 
+## Import transactions from statements
+
+```bash
+python3 ./ledger-importers.py -s importers-input -o importers-output.bean -d documents
+```
 
 ## Ledger structure
 
